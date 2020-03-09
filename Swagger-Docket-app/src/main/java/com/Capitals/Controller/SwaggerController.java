@@ -8,6 +8,6 @@ public class SwaggerController {
 
 	@GetMapping("/message")
 	public String getMessage() {
-		return "Hello Message";
+		return "Hello Ashwani";
 	}
 }
